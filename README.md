@@ -26,16 +26,16 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ebook sobre promessas de ano novo
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+chat gpt
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+inclusão de prompt no chat gpt
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+ebook criado pelo chat gpt
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+resultado interessante
 ```
 
 ### Exemplos e Insigths
